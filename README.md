@@ -1,4 +1,4 @@
-<h1 align="center"> Market Simulator (server-client) - Pedro Sanzio </h1>
+<h1 align="center"> Market Simulator - Pedro Sanzio </h1>
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/></p>
 
 ## :file_folder: Informações
@@ -9,7 +9,8 @@
 
 ## :page_with_curl: Descrição do projeto
 
-O Market Simulator é um programa para implementar a comunicação cliente-servidor via socket em Python, para exemplificar foi feito um sistema onde, o servidor possui uma lista de produtos e o cliente pode comprá-los ou fazer uma oferta com o intuito de adquirir com o preço mais baixo que o apresentado inicialmente.
+O Market Simulator é um programa para implementar a comunicação cliente-servidor(client-server) via socket em Python, para exemplificar foi feito um sistema onde, o servidor possui uma lista de produtos e o cliente pode comprá-los ou fazer uma oferta com o intuito de adquirir com o preço mais baixo que o apresentado inicialmente.
+
 ## :hammer: Funcionalidades do projeto
 
 - <strong>Funcionalidade 1:</strong> Cliente pode fazer compras pelo preço "inicial"
