@@ -9,7 +9,7 @@
 
 ## :page_with_curl: Descrição do projeto
 
-O Market Simulator é um programa para implementar a comunicação ***cliente-servidor(client-server)*** via socket em Python, para exemplificar foi feito um sistema onde, o servidor possui uma lista de produtos e o cliente pode comprá-los ou fazer uma oferta com o intuito de adquirir com o preço mais baixo que o apresentado inicialmente.
+O Market Simulator é um programa para implementar a comunicação ***cliente-servidor(client-server)*** via socket em Python, para exemplificar o uso dessa comunicação foi feito um sistema que simula um Supermercado. O servidor possui uma lista de produtos e o cliente pode comprá-los ou fazer uma oferta com o intuito de adquirir com o preço mais baixo que o apresentado inicialmente.
 
 ## :hammer: Funcionalidades do projeto
 
